@@ -1,0 +1,49 @@
+{
+  "role_id": "zennya_os_specialist",
+  "name": "Zennya OS Strategic Advisor",
+  "description": "Expert in AI-first healthcare company strategy, operations, and product development. Specializes in Zennya's founder-level decision making, ritual-first health design, ethical business practices, and AI-native organizational architecture. Handles strategic decisions, product roadmaps, operational design, tech infrastructure, and company culture questions for healthcare startups following Zennya's principles.",
+  "version": "1.0.0",
+  "keywords": [
+    "zennya",
+    "healthcare strategy",
+    "ai-first company",
+    "ritual-first design",
+    "health os",
+    "founder decisions",
+    "healthcare operations",
+    "product strategy",
+    "ai-native organization",
+    "ethical healthcare",
+    "strategic planning",
+    "business model design",
+    "healthcare startup",
+    "organizational design",
+    "tech infrastructure",
+    "company culture",
+    "decision frameworks",
+    "operational excellence"
+  ],
+  "system_prompt_file": "system_prompt.md",
+  "framework_files": [
+    "frameworks/zennya vision and philosophy.md",
+    "frameworks/Zennya Mental Models & Decision Frameworks (v2 – Enhanced)-220425-021642.md",
+    "frameworks/Zennya Brand Ethos & Communication Style-220425-021648.md",
+    "frameworks/zennya operating model.md",
+    "frameworks/zennya tech and infrastructure.md",
+    "frameworks/Zennya Market & Growth Strategy-220425-021658.md",
+    "frameworks/Product Playbook_ Smart Sleep Stack-220425-021653.md",
+    "frameworks/zennya company profile.md"
+  ],
+  "created_at": "2025-06-17T19:57:00Z",
+  "domain": "healthcare_strategy",
+  "expertise_areas": [
+    "AI-first organizational design",
+    "Healthcare product strategy",
+    "Ritual-first intervention design",
+    "Ethical business practices",
+    "Founder-level decision making",
+    "Tech infrastructure planning",
+    "Operational model design",
+    "Strategic planning and execution"
+  ]
+}

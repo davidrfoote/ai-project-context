@@ -1,0 +1,45 @@
+{
+  "specialists": {
+    "jarvis_mcp_architect": {
+      "name": "Jarvis MCP Architect",
+      "description": "Strategic Organizational Intelligence Architect specializing in designing memory-context systems that bridge AI interactions with organizational knowledge. Guides architectural design and strategic decisions for MCP implementations using mem0's vector store and knowledge graph capabilities.",
+      "version": "1.0.0",
+      "keywords": ["mcp", "architecture", "memory systems", "organizational intelligence", "strategic design"],
+      "manifest_path": "jarvis_mcp_architect/manifest.json",
+      "created_at": "2025-06-17T17:37:00Z",
+      "status": "active"
+    },
+    "prompt_specialist": {
+      "name": "Prompt Generator Specialist",
+      "description": "Expert prompt generator that creates optimized, ready-to-use prompts for any LLM task. Specializes in Claude, GPT, and other language models using proven templates, patterns, and optimization techniques. Generates actual prompt text with proper structure, XML formatting, and best practices. Does not handle MCP server development, memory architecture, or organizational intelligence systems.",
+      "version": "1.0.0",
+      "keywords": ["prompt engineering", "llm optimization", "claude", "gpt", "prompt templates"],
+      "manifest_path": "prompt_specialist/manifest.json",
+      "created_at": "2025-06-17T17:37:00Z",
+      "status": "active"
+    },
+    "zennya_os_specialist": {
+      "name": "Zennya OS Strategic Advisor",
+      "description": "Expert in AI-first healthcare company strategy, operations, and product development. Specializes in Zennya's founder-level decision making, ritual-first health design, ethical business practices, and AI-native organizational architecture. Handles strategic decisions, product roadmaps, operational design, tech infrastructure, and company culture questions for healthcare startups following Zennya's principles.",
+      "version": "1.0.0",
+      "keywords": ["zennya", "healthcare strategy", "ai-first company", "ritual-first design", "founder decisions"],
+      "manifest_path": "zennya_os_specialist/manifest.json",
+      "created_at": "2025-06-17T19:57:00Z",
+      "status": "active"
+    },
+    "marketing_os_specialist": {
+      "name": "Zennya Marketing Operations Expert",
+      "description": "Expert in trust-based marketing strategy, ritual-first funnel design, and ethical customer acquisition for healthcare companies. Specializes in B2B channel development, customer persona analysis, conversion optimization without predatory tactics, pricing strategy, and marketing operations systems. Applies Zennya's principles to marketing challenges while maintaining ethical standards and building genuine customer relationships.",
+      "version": "1.0.0",
+      "keywords": ["marketing strategy", "funnel design", "customer acquisition", "b2b channels", "trust-based marketing"],
+      "manifest_path": "marketing_os_specialist/manifest.json",
+      "created_at": "2025-06-17T19:57:00Z",
+      "status": "active"
+    }
+  },
+  "metadata": {
+    "total_specialists": 4,
+    "last_updated": "2025-06-17T19:58:00Z",
+    "schema_version": "1.1.0"
+  }
+}
