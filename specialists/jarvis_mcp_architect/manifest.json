@@ -6,7 +6,8 @@
   "keywords": ["jarvis", "langgraph", "universal agent", "natural language", "mcp", "architecture", "intelligence decoupling", "api"],
   "system_prompt_file": "system_prompt.md",
   "framework_files": [
-    "frameworks/jarvis-architecture-guide.md"
+    "frameworks/jarvis-architecture-guide.md",
+    "frameworks/langgraph-implementation-guide.md"
   ],
   "created_at": "2025-06-17T16:34:00Z",
   "updated_at": "2025-06-23T01:50:00Z",
