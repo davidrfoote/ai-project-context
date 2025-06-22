@@ -10,11 +10,14 @@ This repository contains a modular system of AI specialists, each optimized for 
 
 ```
 ai-project-context/
-├── registry.json                 # Central index of all specialists
-├── jarvis_mcp_architect/         # MCP & Organizational Intelligence
-├── prompt_specialist/            # Prompt Engineering & Optimization
-├── zennya_os_specialist/         # Healthcare Strategy & Operations
-├── marketing_os_specialist/      # Trust-based Marketing Operations
+├── .clinerules/                  # Cline rules for project development
+├── memory-bank/                  # Persistent context across sessions
+├── specialists/                  # AI specialist configurations
+│   ├── registry.json             # Central index of all specialists
+│   ├── jarvis_mcp_architect/     # MCP & Organizational Intelligence
+│   ├── prompt_specialist/        # Prompt Engineering & Optimization
+│   ├── zennya_os_specialist/     # Healthcare Strategy & Operations
+│   └── marketing_os_specialist/  # Trust-based Marketing Operations
 └── README.md                     # This file
 ```
 

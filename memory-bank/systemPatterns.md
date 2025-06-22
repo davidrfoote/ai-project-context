@@ -90,11 +90,11 @@ AI Behavior
 ## Critical Implementation Paths
 
 ### Adding New Specialist
-1. Create directory structure
+1. Create directory structure in specialists/
 2. Write manifest.json
 3. Create system_prompt.md
 4. Add framework files
-5. Update registry.json
+5. Update specialists/registry.json
 6. Test and refine
 7. Commit to Git
 

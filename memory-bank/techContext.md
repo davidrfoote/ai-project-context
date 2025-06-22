@@ -85,7 +85,10 @@ git push
 ai-project-context/
 ├── .gitignore
 ├── README.md
-├── registry.json
+├── .clinerules/
+│   ├── 01-memory-bank.md
+│   ├── 02-specialist-work.md
+│   └── 03-current-focus.md
 ├── memory-bank/
 │   ├── projectbrief.md
 │   ├── productContext.md
@@ -93,11 +96,12 @@ ai-project-context/
 │   ├── systemPatterns.md
 │   ├── techContext.md
 │   └── progress.md
-├── .clinerules
-└── [specialist_directories]/
-    ├── manifest.json
-    ├── system_prompt.md
-    └── frameworks/
+└── specialists/
+    ├── registry.json
+    └── [specialist_directories]/
+        ├── manifest.json
+        ├── system_prompt.md
+        └── frameworks/
 ```
 
 ### Environment Configuration
