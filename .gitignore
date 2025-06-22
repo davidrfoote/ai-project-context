@@ -11,6 +11,8 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Note: .clinerules is intentionally tracked
+
 # Logs
 *.log
 npm-debug.log*
