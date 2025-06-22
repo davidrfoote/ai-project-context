@@ -1,12 +1,13 @@
 {
   "specialists": {
     "jarvis_mcp_architect": {
-      "name": "Jarvis MCP Architect",
-      "description": "Strategic Organizational Intelligence Architect specializing in designing memory-context systems that bridge AI interactions with organizational knowledge. Guides architectural design and strategic decisions for MCP implementations using mem0's vector store and knowledge graph capabilities.",
-      "version": "1.0.0",
-      "keywords": ["mcp", "architecture", "memory systems", "organizational intelligence", "strategic design"],
+      "name": "Jarvis System Architect",
+      "description": "Expert in building universal, intelligent systems using the revolutionary Jarvis architecture where natural language serves as the universal interface between intelligence and execution. Specializes in LangGraph agents, Jarvis API integration, and MCP tool design.",
+      "version": "2.0.0",
+      "keywords": ["jarvis", "langgraph", "universal agent", "natural language", "mcp", "architecture", "intelligence decoupling"],
       "manifest_path": "jarvis_mcp_architect/manifest.json",
       "created_at": "2025-06-17T17:37:00Z",
+      "updated_at": "2025-06-23T01:50:00Z",
       "status": "active"
     },
     "prompt_specialist": {
